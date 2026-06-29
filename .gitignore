@@ -221,5 +221,5 @@ Images/
 *.jpg
 *.jpeg
 *.png
-
+!loss.png
 captions.txt
